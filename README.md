@@ -1,6 +1,6 @@
 # beautydemy_php
 
-# read this and use add script when you lunch the lamp lightsail
+#### read this and use add script when you lunch the lamp lightsail
 https://aws.amazon.com/getting-started/hands-on/launch-lamp-web-app/
 
 
