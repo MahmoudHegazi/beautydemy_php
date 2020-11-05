@@ -9,7 +9,7 @@ easy steps to create the db on lightsail and how to create account
 3. follow this awesome steps:
 
 I solved in this way: I logged in with root username
-
+```steps
 mysql -u root -p -h localhost
 I created a new user with
 
@@ -30,3 +30,4 @@ source shop.sql;
 And that's it.. Now from php works without problems with the call
 
  $conn = new mysqli("localhost", "francesco", "some_pass", "shop");
+```
