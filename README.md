@@ -7,6 +7,8 @@ easy steps to create the db on lightsail and how to create account
 1. enter ```mysql``` to enter to the database
 2. password can be found in bitnami_credentials in root dir
 3. follow this awesome steps:
+4. after this steps when we have password in the database for root to access it must be ```mysql -u root -p``` (password based login)
+
 
 I solved in this way: I logged in with root username
 ```steps
