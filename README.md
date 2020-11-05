@@ -1,5 +1,9 @@
 # beautydemy_php
 
+# read this and use add script when you lunch the lamp lightsail
+https://aws.amazon.com/getting-started/hands-on/launch-lamp-web-app/
+
+
 0. if you did not use add script in aws it will not work this step number0
 
 easy steps to create the db on lightsail and how to create account
