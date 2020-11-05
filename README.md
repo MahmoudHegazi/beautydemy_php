@@ -2,7 +2,7 @@
 
 #### read this and use add script when you lunch the lamp lightsail
 https://aws.amazon.com/getting-started/hands-on/launch-lamp-web-app/
-
+https://itectec.com/ubuntu/ubuntu-error-104528000-access-denied-for-user-rootlocalhost-using-password-no/
 
 0. if you did not use add script in aws it will not work this step number0
 
